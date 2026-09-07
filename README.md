@@ -18,10 +18,8 @@
 ## Hi, I'm Val! 👋
 Currently learning programming, building projects and figuring things out one bug at a time
 
-💻 Student & aspiring developer  
-🎓 Studying [Technik Programista](https://zse.krakow.pl/wordpress/technik-programista/) at ZSE Kraków  
-📍 Kraków, Poland  
-🐧 Linux enjoyer  
+💻 College student  
+🎓 Studying [Technik Programista](https://zse.krakow.pl/wordpress/technik-programista/) at ZSE Kraków   
 
 
 ### Open To
