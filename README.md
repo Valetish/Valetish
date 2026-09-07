@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Hi there 👋 -->
+## Hi, I'm Val!
 
-<!--
-**Valetish/Valetish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student & aspiring developer<br/>
+🎓 Studying [Technik Programista](https://zse.krakow.pl/wordpress/technik-programista/) at ZSE Kraków<br/>
+📍 Kraków, Poland<br/>
+🐧 Linux enjoyer<br/>
 
-Here are some ideas to get you started:
+Currently learning programming, building projects and figuring things out one bug at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Learning
+
+React · JavaScript · HTML/CSS  · Python · C++ ·  Git · Linux
+
+###  Interested in
+
+Software Development · Web Development · Cybersecurity · Open Source
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_rank=true)
