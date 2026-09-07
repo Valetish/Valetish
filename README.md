@@ -17,5 +17,4 @@ React · JavaScript · HTML/CSS  · Python · C++ ·  Git · Linux
 Software Development · Web Development · Cybersecurity · Open Source
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_rank=true)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Valetish)](https://github.com/stats-organization/github-stats-extended)
