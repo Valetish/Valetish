@@ -19,7 +19,7 @@
 Currently learning programming, building projects and figuring things out one bug at a time
 
 💻 College student  
-🎓 Studying [Technik Programista](https://zse.krakow.pl/wordpress/technik-programista/) at ZSE Kraków   
+🎓 Studying [Technik Programista](https://zse.krakow.pl/technik-programista) at ZSE Kraków   
 
 
 ### Open To
